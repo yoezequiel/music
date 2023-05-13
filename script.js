@@ -11,8 +11,8 @@ const playlists = {
         // Agrega más canciones según sea necesario
     ],
     playlist3: [
-        { title: 'Canción 5', artist: 'Artista 5', src: '/music/test1.mp3' },
-        { title: 'Canción 6', artist: 'Artista 6', src: '/music/test2.mp3' },
+        { title: 'Canción 5', artist: 'Artista 5', src: 'test1.mp3' },
+        { title: 'Canción 6', artist: 'Artista 6', src: 'test2.mp3' },
         // Agrega más canciones según sea necesario
     ]
 };
