@@ -1,18 +1,18 @@
 // Datos de las playlists y canciones
 const playlists = {
     playlist1: [
-        { title: 'Canción 1', artist: 'Artista 1', src: 'cancion1.mp3' },
-        { title: 'Canción 2', artist: 'Artista 2', src: 'cancion2.mp3' },
+        { title: 'Canción 1', artist: 'Artista 1', src: 'test1.mp3' },
+        { title: 'Canción 2', artist: 'Artista 2', src: 'test2.mp3' },
         // Agrega más canciones según sea necesario
     ],
     playlist2: [
-        { title: 'Canción 3', artist: 'Artista 3', src: 'cancion3.mp3' },
-        { title: 'Canción 4', artist: 'Artista 4', src: 'cancion4.mp3' },
+        { title: 'Canción 3', artist: 'Artista 3', src: 'test1.mp3' },
+        { title: 'Canción 4', artist: 'Artista 4', src: 'test2.mp3' },
         // Agrega más canciones según sea necesario
     ],
     playlist3: [
-        { title: 'Canción 5', artist: 'Artista 5', src: '/songs/test1.mp3' },
-        { title: 'Canción 6', artist: 'Artista 6', src: '/songs/test2.mp3' },
+        { title: 'Canción 5', artist: 'Artista 5', src: 'test1.mp3' },
+        { title: 'Canción 6', artist: 'Artista 6', src: 'test2.mp3' },
         // Agrega más canciones según sea necesario
     ]
 };
